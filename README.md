@@ -76,7 +76,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ## Video Location
 [SVG Logo Generator Video](https://drive.google.com/file/d/1ejhlBILsfdlmFizT0aYQhwPeK_R2gj78/view?usp=drive_link)
 
-## Screenshot
+## Screenshots
 ![Screenshot](./Images/1.png)
 ![Screenshot](./Images/2.png)
 ![Screenshot](./Images/Logo.png)
