@@ -1,6 +1,6 @@
 
-      <svg width="340" height="340" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="170" cy="170" r="170" fill="yellow" />
-        <text x="170" y="170" dominant-baseline="middle" text-anchor="middle" fill="red" font-size="80" font-weight="bold">FEr</text>
+      <svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+        <rect width="350" height="350" fill="green" />
+        <text x="175" y="175" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="80" font-weight="bold">FER</text>
       </svg>
     
