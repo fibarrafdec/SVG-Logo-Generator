@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shape Classes should create a Circle with user input 1`] = `
+"
+      <svg width="340" height="340" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="170" cy="170" r="170" fill="blue" />
+        <text x="170" y="170" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="80" font-weight="bold">C</text>
+      </svg>
+    "
+`;
+
+exports[`Shape Classes should create a Square with user input 1`] = `
+"
+      <svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+        <rect width="350" height="350" fill="yellow" />
+        <text x="175" y="175" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="80" font-weight="bold">S</text>
+      </svg>
+    "
+`;
+
+exports[`Shape Classes should create a Triangle with user input 1`] = `
+"
+      <svg width="400" height="346.41016151377545" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="0,346.41016151377545 400,346.41016151377545 200,0" fill="green" />
+        <text x="200" y="173.20508075688772" dominant-baseline="middle" text-anchor="middle" fill="red" font-size="70" font-weight="bold">T</text>
+      </svg>
+    "
+`;
