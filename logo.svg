@@ -1,0 +1,6 @@
+
+      <svg width="340" height="340" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="170" cy="170" r="170" fill="yellow" />
+        <text x="170" y="170" dominant-baseline="middle" text-anchor="middle" fill="red" font-size="80" font-weight="bold">FEr</text>
+      </svg>
+    
