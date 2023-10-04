@@ -95,7 +95,7 @@ GitHub username:[fibarrafdec](fibarrafdec)
 GitHub link: https://github.com/fibarrafdec
 
 ## Credits
-This application has been by © 2023 Fernando Ibarra [fibarrafdec](https://github.com/fibarrafdec).
+This application has been created by © 2023 Fernando Ibarra [fibarrafdec](https://github.com/fibarrafdec).
 
 ## License & Copyright ©
 This application is covered under the MIT License.
